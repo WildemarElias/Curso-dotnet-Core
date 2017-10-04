@@ -12529,27 +12529,28 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.0",
+      "Microsoft.EntityFrameworkCore.Sqlite >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\0030481413035\\.nuget\\packages\\": {},
+    "C:\\Users\\Mielias\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "q:\\Semana Tecnologia\\WatchList\\WatchList.csproj",
+      "projectUniqueName": "c:\\Users\\Mielias\\Documents\\ELIAS\\GitHub\\wildemar-elias.github.io\\fatec\\dotNet Core\\Curso-dotnet-Core\\WatchList\\WatchList.csproj",
       "projectName": "WatchList",
-      "projectPath": "q:\\Semana Tecnologia\\WatchList\\WatchList.csproj",
-      "packagesPath": "C:\\Users\\0030481413035\\.nuget\\packages\\",
-      "outputPath": "q:\\Semana Tecnologia\\WatchList\\obj\\",
+      "projectPath": "c:\\Users\\Mielias\\Documents\\ELIAS\\GitHub\\wildemar-elias.github.io\\fatec\\dotNet Core\\Curso-dotnet-Core\\WatchList\\WatchList.csproj",
+      "packagesPath": "C:\\Users\\Mielias\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Mielias\\Documents\\ELIAS\\GitHub\\wildemar-elias.github.io\\fatec\\dotNet Core\\Curso-dotnet-Core\\WatchList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\0030481413035\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Mielias\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12577,6 +12578,10 @@
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.All": {
+            "target": "Package",
+            "version": "2.0.0"
+          },
+          "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
             "version": "2.0.0"
           }
