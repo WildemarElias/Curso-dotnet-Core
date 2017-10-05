@@ -12540,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Mielias\\Documents\\ELIAS\\GitHub\\wildemar-elias.github.io\\fatec\\dotNet Core\\Curso-dotnet-Core\\WatchList\\WatchList.csproj",
+      "projectUniqueName": "C:\\Users\\Mielias\\Documents\\ELIAS\\GitHub\\wildemar-elias.github.io\\fatec\\dotNet Core\\Curso-dotnet-Core\\WatchList\\WatchList.csproj",
       "projectName": "WatchList",
-      "projectPath": "c:\\Users\\Mielias\\Documents\\ELIAS\\GitHub\\wildemar-elias.github.io\\fatec\\dotNet Core\\Curso-dotnet-Core\\WatchList\\WatchList.csproj",
+      "projectPath": "C:\\Users\\Mielias\\Documents\\ELIAS\\GitHub\\wildemar-elias.github.io\\fatec\\dotNet Core\\Curso-dotnet-Core\\WatchList\\WatchList.csproj",
       "packagesPath": "C:\\Users\\Mielias\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Mielias\\Documents\\ELIAS\\GitHub\\wildemar-elias.github.io\\fatec\\dotNet Core\\Curso-dotnet-Core\\WatchList\\obj\\",
+      "outputPath": "C:\\Users\\Mielias\\Documents\\ELIAS\\GitHub\\wildemar-elias.github.io\\fatec\\dotNet Core\\Curso-dotnet-Core\\WatchList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

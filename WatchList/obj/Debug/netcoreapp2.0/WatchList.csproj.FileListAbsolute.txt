@@ -1,0 +1,10 @@
+C:\Users\Mielias\Documents\ELIAS\GitHub\wildemar-elias.github.io\fatec\dotNet Core\Curso-dotnet-Core\WatchList\obj\Debug\netcoreapp2.0\WatchList.csproj.CoreCompileInputs.cache
+C:\Users\Mielias\Documents\ELIAS\GitHub\wildemar-elias.github.io\fatec\dotNet Core\Curso-dotnet-Core\WatchList\obj\Debug\netcoreapp2.0\WatchList.AssemblyInfoInputs.cache
+C:\Users\Mielias\Documents\ELIAS\GitHub\wildemar-elias.github.io\fatec\dotNet Core\Curso-dotnet-Core\WatchList\obj\Debug\netcoreapp2.0\WatchList.AssemblyInfo.cs
+C:\Users\Mielias\Documents\ELIAS\GitHub\wildemar-elias.github.io\fatec\dotNet Core\Curso-dotnet-Core\WatchList\bin\Debug\netcoreapp2.0\WatchList.deps.json
+C:\Users\Mielias\Documents\ELIAS\GitHub\wildemar-elias.github.io\fatec\dotNet Core\Curso-dotnet-Core\WatchList\bin\Debug\netcoreapp2.0\WatchList.runtimeconfig.json
+C:\Users\Mielias\Documents\ELIAS\GitHub\wildemar-elias.github.io\fatec\dotNet Core\Curso-dotnet-Core\WatchList\bin\Debug\netcoreapp2.0\WatchList.runtimeconfig.dev.json
+C:\Users\Mielias\Documents\ELIAS\GitHub\wildemar-elias.github.io\fatec\dotNet Core\Curso-dotnet-Core\WatchList\bin\Debug\netcoreapp2.0\WatchList.dll
+C:\Users\Mielias\Documents\ELIAS\GitHub\wildemar-elias.github.io\fatec\dotNet Core\Curso-dotnet-Core\WatchList\bin\Debug\netcoreapp2.0\WatchList.pdb
+C:\Users\Mielias\Documents\ELIAS\GitHub\wildemar-elias.github.io\fatec\dotNet Core\Curso-dotnet-Core\WatchList\obj\Debug\netcoreapp2.0\WatchList.dll
+C:\Users\Mielias\Documents\ELIAS\GitHub\wildemar-elias.github.io\fatec\dotNet Core\Curso-dotnet-Core\WatchList\obj\Debug\netcoreapp2.0\WatchList.pdb
