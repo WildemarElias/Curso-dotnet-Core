@@ -12540,22 +12540,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mielias\\Documents\\ELIAS\\GitHub\\wildemar-elias.github.io\\fatec\\dotNet Core\\Curso-dotnet-Core\\WatchList\\WatchList.csproj",
+      "projectUniqueName": "c:\\Users\\Mielias\\Documents\\ELIAS\\GitHub\\wildemar-elias.github.io\\fatec\\dotNet Core\\Curso-dotnet-Core\\WatchList\\WatchList.csproj",
       "projectName": "WatchList",
-      "projectPath": "C:\\Users\\Mielias\\Documents\\ELIAS\\GitHub\\wildemar-elias.github.io\\fatec\\dotNet Core\\Curso-dotnet-Core\\WatchList\\WatchList.csproj",
+      "projectPath": "c:\\Users\\Mielias\\Documents\\ELIAS\\GitHub\\wildemar-elias.github.io\\fatec\\dotNet Core\\Curso-dotnet-Core\\WatchList\\WatchList.csproj",
       "packagesPath": "C:\\Users\\Mielias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mielias\\Documents\\ELIAS\\GitHub\\wildemar-elias.github.io\\fatec\\dotNet Core\\Curso-dotnet-Core\\WatchList\\obj\\",
+      "outputPath": "c:\\Users\\Mielias\\Documents\\ELIAS\\GitHub\\wildemar-elias.github.io\\fatec\\dotNet Core\\Curso-dotnet-Core\\WatchList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mielias\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Mielias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
